@@ -1,0 +1,18 @@
+body{
+    background-position: center;
+    background-color:#ffffe0 ;
+    /*background-image: url(../img/imagendelogin.JPG);*/
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    /*position:relative;*/
+    
+    
+} 
+/*
+.fondo{
+    background-color:#ffffe0 ; 
+   }
+*/
+ 
