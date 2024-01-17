@@ -1,5 +1,5 @@
 # Mantenedor Sencillo
-![Imagen del proyecto](https://github.com/TomasAguileraCastillo/Mantenedor-Sencillo/blob/main/mantenedor/imagenes%20del%20proyecto/Captura1.JPG?raw=true)
+![Imagen del proyecto](https://github.com/TomasAguileraCastillo/Gestor-de-archivos-de-video-2.0/blob/main/imagenes%20del%20sistema/Captura2.JPG)
 
 ## Descripción 📑
 
@@ -19,14 +19,14 @@ se realizo ademas un rediseño visual de las opciones y panatallas del sistema q
 ## Vista previa del proyecto
 Si gustas, aqui te dejo algunas imagenes del proyecto realizado en bootstrap, te las recomiendo:
 
-![Captura del proyecto](https://github.com/TomasAguileraCastillo/Mantenedor-Sencillo/blob/main/mantenedor/imagenes%20del%20proyecto/Captura1.JPG?raw=true)
-![Captura del proyecto](https://github.com/TomasAguileraCastillo/Mantenedor-Sencillo/blob/main/mantenedor/imagenes%20del%20proyecto/Captura2.JPG?raw=true)
-![Captura del proyecto](https://github.com/TomasAguileraCastillo/Mantenedor-Sencillo/blob/main/mantenedor/imagenes%20del%20proyecto/Captura2.JPG?raw=true)
-![Captura del proyecto](https://github.com/TomasAguileraCastillo/Mantenedor-Sencillo/blob/main/mantenedor/imagenes%20del%20proyecto/Captura2.JPG?raw=true)
-![Captura del proyecto](https://github.com/TomasAguileraCastillo/Mantenedor-Sencillo/blob/main/mantenedor/imagenes%20del%20proyecto/Captura2.JPG?raw=true)
-![Captura del proyecto](https://github.com/TomasAguileraCastillo/Mantenedor-Sencillo/blob/main/mantenedor/imagenes%20del%20proyecto/Captura2.JPG?raw=true)
-![Captura del proyecto](https://github.com/TomasAguileraCastillo/Mantenedor-Sencillo/blob/main/mantenedor/imagenes%20del%20proyecto/Captura2.JPG?raw=true)
-![Captura del proyecto](https://github.com/TomasAguileraCastillo/Mantenedor-Sencillo/blob/main/mantenedor/imagenes%20del%20proyecto/Captura2.JPG?raw=true)
+![Captura del proyecto](https://github.com/TomasAguileraCastillo/Gestor-de-archivos-de-video-2.0/blob/main/imagenes%20del%20sistema/Captura.JPG)
+![Captura del proyecto](https://github.com/TomasAguileraCastillo/Gestor-de-archivos-de-video-2.0/blob/main/imagenes%20del%20sistema/Captura2.JPG)
+![Captura del proyecto](https://github.com/TomasAguileraCastillo/Gestor-de-archivos-de-video-2.0/blob/main/imagenes%20del%20sistema/Captura3.JPG)
+![Captura del proyecto](https://github.com/TomasAguileraCastillo/Gestor-de-archivos-de-video-2.0/blob/main/imagenes%20del%20sistema/Captura4.JPG)
+![Captura del proyecto](https://github.com/TomasAguileraCastillo/Gestor-de-archivos-de-video-2.0/blob/main/imagenes%20del%20sistema/Captura5.JPG)
+![Captura del proyecto](https://github.com/TomasAguileraCastillo/Gestor-de-archivos-de-video-2.0/blob/main/imagenes%20del%20sistema/Captura6.JPG)
+![Captura del proyecto](https://github.com/TomasAguileraCastillo/Gestor-de-archivos-de-video-2.0/blob/main/imagenes%20del%20sistema/Captura7.JPG)
+![Captura del proyecto](https://github.com/TomasAguileraCastillo/Gestor-de-archivos-de-video-2.0/blob/main/imagenes%20del%20sistema/login.JPG)
 
 
 
@@ -44,7 +44,7 @@ Si gustas, aqui te dejo algunas imagenes del proyecto realizado en bootstrap, te
 Si quieres comentarme algo o tienes algun proyecto en el que quieras que trabaje, puedes escribirme al [correo](tomasaguilerac@live.cl), estare atento.
 
 ## Instalación 
-Este proyecto no necesita de instalación. Simplemente abre la carpeta en la ruta del servidor web donde se copia y corre desde el navegador ya que es una aplicacion Web
+Simplemente abre la carpeta en la ruta del servidor web, pega los archivos y corre desde el navegador ya que es una aplicacion Web, si tienes problemas con la bd, tranquilidad ya que son solo 3 tablas, si tienes dudad o quieres colaboraciones solo escribeme
   
 ## Licencia 📄
 MIT Public License v3.0
