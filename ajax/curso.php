@@ -5,7 +5,7 @@
 	//llama al modelo de la clase para creacion de objeto
 	 $_SESSION["nombre"] ;
 	require_once "../modelos/Curso.php";
-	$curso=new Curso();
+	$curso = new Curso();
 
 
 	//obtencion de datos desde formulario
