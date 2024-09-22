@@ -1,7 +1,7 @@
 <?php 
 	ob_start();
 	if (strlen(session_id()) < 1){
-		session_start();//Validamos si existe o no la sesión
+		session_start() ;//Validamos si existe o no la sesión
 	}
 	if (!isset($_SESSION["nombre"])){
 		header("Location: ../vistas/login.html");//Validamos el acceso solo a los usuarios logueados al sistema.
@@ -30,7 +30,8 @@
 				case 'guardaryeditar':
   					/********************************************************** */
 					//validacion de objeto imagen
-					if (!file_exists($_FILES['arch']['tmp_name']) || !is_uploaded_file($_FILES['arch']['tmp_name'])){
+					if (!file_exists($_FILES['arch']['tmp_name']) || 
+					    !is_uploaded_file($_FILES['arch']['tmp_name'])){
 						$imagen=$_POST["archactual"];
 					}else{
 						$ext = explode(".", $_FILES["arch"]["name"]);
