@@ -30,13 +30,7 @@ switch ($_GET["op"]){
      
     case 'guardaryeditar':
  //* ************************************************************************************************************
-					/*validacion de objeto imagen y tamaño */
-
-
-
-
-
-
+ //*validacion de objeto imagen y tamaño */
                         $file_size = $_FILES['arch']['size'];
                         if($file_size > 1000000000){
                             echo "<script>alert('El Archivo es demasiado grande para cargar')</script>";
